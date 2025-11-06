@@ -32,7 +32,9 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 
 
 // Experience Section Logo's
-import codesoftLogo from './assets/company_logo/codesoftLogo.avif';
+// import codesoftLogo from './assets/company_logo/codesoftLogo.avif';
+// import codesoftLogo from './assets/company_logo/codesoftLogo.avif';
+import codesoftLogo from './assets/company_logo/codesoftLogo.png'
 
 import ganpatiLogo from './assets/company_logo/ganpatiLogo.jpg';
 
