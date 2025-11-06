@@ -35,7 +35,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 
 import codesoftlogo from './assets/company_logo/codesoftlogo.png'
 
-import ganpatiLogo from './assets/company_logo/ganpatiLogo.jpg';
+import ganpatilogo from './assets/company_logo/ganpatilogo.jpg';
 
 //this is project section logo
 import githubdetector from './assets/work_logo/githubdetector.png';
@@ -114,7 +114,7 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
-    img: ganpatiLogo,
+    img: ganpatilogo,
     role: "Fullstack Developer Intern",
     company: "HGRD",
     date: "Oct 2025 - Sept 2025",
