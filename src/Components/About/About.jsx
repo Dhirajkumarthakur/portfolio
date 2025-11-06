@@ -1,10 +1,9 @@
 import React from 'react';
-// import ReactTypingEffect from 'react-typing-effect';
+
 import ReactTypingEffect from "react-typing-effect";
-// import { TypeAnimation } from 'react-type-animation';
+
 import Tilt from 'react-parallax-tilt';
-// import profileImage from './assests/Profile2.jpg';
-// import profileImage from "./assets/Profile2.jpg";
+
 import profileImage from "../../assets/Profile2.jpg";
 import resume from "../../assets/resume/dhiraj_resume.pdf"
 
@@ -33,7 +32,7 @@ const About = () => {
               text={[
                 'Fullstack Developer',
                 'Mernstack Developer',
-                // 'UI/UX Designer',
+               
                 'Coder',
               ]}
               speed={100}

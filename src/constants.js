@@ -32,9 +32,8 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 
 
 // Experience Section Logo's
-// import codesoftLogo from './assets/company_logo/codesoftLogo.avif';
-// import codesoftLogo from './assets/company_logo/codesoftLogo.avif';
-import codesoftLogo from './assets/company_logo/codesoftLogo.png'
+
+import codesoftlogo from './assets/company_logo/codesoftlogo.png'
 
 import ganpatiLogo from './assets/company_logo/ganpatiLogo.jpg';
 
@@ -54,8 +53,7 @@ import calculator from './assets/work_logo/calculator.png';
 
 import gmanilogo from './assets/education_logo/gmani-logo.png';
 import biharlogo from './assets/education_logo/biharlogo.png';
-// import agcLogo from './assets/company_logo/agc_logo.png';
-// import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+
 
 //this is skillsinfo 
 
@@ -134,7 +132,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: codesoftLogo,
+    img: codesoftlogo,
     role: "C++ Developer Intern",
     company: "CodeSoft",
     date: "July 2024 - Aug 2024",
