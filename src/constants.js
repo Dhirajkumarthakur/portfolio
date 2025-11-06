@@ -39,7 +39,7 @@ import ganpatilogo from './assets/company_logo/ganpatilogo.jpg';
 
 //this is project section logo
 import githubdetector from './assets/work_logo/githubdetector.png';
-import Bookmyshow from './assets/work_logo/Bookmyshow.png';
+import bookmyshow from './assets/work_logo/bookmyshow.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import sunriseacademy from './assets/work_logo/sunriseacademy.png';
 import chataiapp from './assets/work_logo/chataiapp.png';
@@ -167,7 +167,7 @@ export const projects = [
     title: "BookMyShow",
     description:
       "I created a BookMyShow Clone where users can explore movies, book tickets, and manage their bookings online.The frontend is made with React.js to provide an easy and user-friendly interface.The backend is built using Node.js and Express.js, and MongoDB is used to store user, movie, and booking data.This project helped me learn how frontend, backend, and database work together in a full-stack application.",
-    image: Bookmyshow,
+    image: bookmyshow,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
     //put github and hosted link
     github: "https://github.com/Dhirajkumarthakur/Bookmyshow.git",
