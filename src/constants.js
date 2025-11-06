@@ -39,7 +39,7 @@ import ganpatilogo from './assets/company_logo/ganpatilogo.jpg';
 
 //this is project section logo
 import githubdetector from './assets/work_logo/githubdetector.png';
-import BookMyShow from './assets/work_logo/BookMyShow.png';
+import BookMyShow from './assets/work_logo/BookMyshow.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import sunriseacademy from './assets/work_logo/sunriseacademy.png';
 import chataiapp from './assets/work_logo/chataiapp.png';
